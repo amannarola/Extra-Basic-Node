@@ -26,5 +26,3 @@ class users{
 }
 
 var user = new users();
-console.log(user.getName());
-console.log(user.getAge());
